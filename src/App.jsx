@@ -47,7 +47,7 @@ Construct the proper detailed and formatted notes by following the structure bel
 
 ### Detailed Notes
 * **Detailed notes on every topic discussed, format using markdown**
-    * [Each_Topic_Notes]
+    * [Topic_Notes]
 
 ### Key Vocabulary
 * **[Term]**: [Definition]
@@ -371,3 +371,4 @@ const App = () => {
 
 
 export default App;
+
