@@ -46,30 +46,30 @@ Construct the proper detailed and formatted notes by following the structure bel
     * [List] (approx timestamps if available, otherwise omit)
 
 ### Detailed Notes
-* **Detailed notes on every topic discussed, format using markdown**
-    * [Topic_Notes]
+* **Detailed notes on every topic discussed one by one, format elegantly using markdown**
+    * [Detailed_notes_on_Each_Topic_Notes]
 
-### Key Vocabulary
-* **[Term]**: [Definition]
-
-### Formulas and Principles
-* **[Formula/Principle Name]**: [Explanation]
-
-### Teacher Insights
-> **Tip**: [Insight Content]
-
-### Exam Focus Points
-* [Important Concept]
-
-### Common Mistakes
-* **[Mistake]**: [Explanation of why it's wrong]
-
-### Short Tricks
-* **[Short trick]**: [Its application on a clear and concise example]
-
-### Summary & Quick Reference
-* **Key Point**: [Text]
-* **Must Remember**: [Text]
+  ### Key Vocabulary
+  * **[Term]**: [Definition]
+  
+  ### Formulas and Principles
+  * **[Formula/Principle Name]**: [Explanation]
+  
+  ### Teacher Insights
+  > **Tip**: [Insight Content]
+  
+  ### Short Tricks
+  * **[Short trick]**: [Its application on a clear and concise example]
+  
+  ### Exam Focus Points
+  * [Important Concept]
+  
+  ### Common Mistakes
+  * **[Mistake]**: [Explanation of why it's wrong]
+  
+  ### Summary & Quick Reference
+  * **Key Point**: [Text]
+  * **Must Remember**: [Text]
 
 **OUTPUT**: Crystal clear, descriptive and formatted NOTES in natural language.
 
@@ -371,4 +371,5 @@ const App = () => {
 
 
 export default App;
+
 
