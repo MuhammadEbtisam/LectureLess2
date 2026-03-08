@@ -64,9 +64,11 @@ Construct the proper detailed and formatted notes by following the structure bel
 ### Common Mistakes
 * **[Mistake]**: [Explanation of why it's wrong]
 
+### Short Tricks
+* **[Short trick]**: [Its application on a clear and concise example]
+
 ### Summary & Quick Reference
 * **Key Point**: [Text]
-* **Short Trick**: [Text]
 * **Must Remember**: [Text]
 
 **OUTPUT**: Crystal clear, descriptive and formatted NOTES in natural language.
@@ -366,5 +368,6 @@ const App = () => {
     </div>
   );
 };
+
 
 export default App;
